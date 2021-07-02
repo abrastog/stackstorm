@@ -1,0 +1,14 @@
+---
+ref: jira
+name: jira
+description: jira ticket
+keywords:
+    - jira
+version: 3.2.0
+python_versions:
+  - "2"
+  - "3"
+author: rabhay
+email: abhayrastogiit@gmail.com
+contributors:
+  - "rabhay@vmware.com"
